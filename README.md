@@ -1,5 +1,7 @@
 # vs-lite
-Vaganov-Shashkin-Lite (vs-lite) process-based forward model  of tree-ring growth 
+Vaganov-Shashkin-Lite (vs-lite) process-based forward model  of tree-ring growth. 
+
+ + The ramp linear functions of growth response to temperature was substituted by a S-shape Gompertz function.
 
 ORIGINAL REFERENCE: 
 Tolwinski-Ward, S.E., M.N. Evans, M.K. Hughes, and K.J. Anchukaitis. 2011. 
