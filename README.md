@@ -1,5 +1,5 @@
 # vs-lite
-Vaganov-Shashkin-Lite (vs-lite) process-based forward model  of tree-ring growth. 
+The simple, process-based Vaganov-Shashkin-Lite (VS-Lite) code calculates tree growth responses controlled by a limited number of climatic parameters.  
 
  + The ramp linear functions of growth response to temperature was substituted by a S-shape Gompertz function.
 
